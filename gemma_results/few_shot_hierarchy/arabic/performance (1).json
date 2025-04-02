@@ -1,0 +1,9 @@
+{
+  "gemma2-9b-it": {
+    "accuracy_segment": 0.9615384615384616,
+    "f1_segment": 0.9615384615384616,
+    "accuracy_family": 0.7403846153846154,
+    "f1_family": 0.7403846153846154,
+    "avg_inference_time": 4.341956787449973
+  }
+}
